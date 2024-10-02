@@ -1,0 +1,3 @@
+Course Resolusi
+- Membuat Platform untuk membuat template web kursus online
+- Membuat forum diskusi
